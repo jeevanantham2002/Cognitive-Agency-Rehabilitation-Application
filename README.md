@@ -13,3 +13,6 @@ This application was built as a virtual gamified enviornment, which allows patie
 * Moiton Tracking: Oculus SDK
 * Hand Tracking: Leap Motion SDK
 * Game Functionality (i.e. scoring system, integrating cognitive agency cues, and more): .NET using C#
+
+ # Detailed Documentation
+ https://docs.google.com/document/d/1mUZm6WXlpfqgydKFJAbxsnVOl3sksBbRo4G6DZrtqXE/edit?usp=sharing
