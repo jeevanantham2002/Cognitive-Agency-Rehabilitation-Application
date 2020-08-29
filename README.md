@@ -8,8 +8,8 @@ This application was built as a virtual gamified enviornment, which allows patie
 * Hand Tracking: I integraded the Leap Motion SDK with unity to provide a more realistic and immerisive experience by mirroring the users hand movements wihtin the virtual reality enviornemnt.
 * Score Tracking: There is a custom scoring mechanism that was built between scenes in Unity that adjusts the users score depending on a variety of actions.(i.e. user loses points for dropping the coster and gains points for completeing various levels)
  
- #  Tech Stack
-*Game Design: Unity Engine
-*Moiton Tracking: Oculus SDK
-*Hand Tracking: Leap Motion SDK
-*Game Functionality (i.e. scoring system, integrating cognitive agency cues, and more): .NET using C#
+ # Tech Stack
+* Game Design: Unity Engine
+* Moiton Tracking: Oculus SDK
+* Hand Tracking: Leap Motion SDK
+* Game Functionality (i.e. scoring system, integrating cognitive agency cues, and more): .NET using C#
